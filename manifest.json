@@ -1,0 +1,27 @@
+{
+  "AppDescription": {
+    "en": "Gets local artists/bands from the city the user entered."
+  },
+
+  "AppName": {
+    "en": "Artist by location"
+  },
+  "BundleIdentifier": "artistbylocation-app",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  
+   "RequiredPermissions": [
+	"http://developer.echonest.com"
+  ],
+  
+  "SupportedDeviceClasses": [
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "en"
+  ]
+}
